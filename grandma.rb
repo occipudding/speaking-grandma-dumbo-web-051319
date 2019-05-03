@@ -7,5 +7,5 @@ def speak_to_grandma(str)
     end
   else
     return "HUH?! SPEAK UP, SONNY!"
-    
+  end
 end
