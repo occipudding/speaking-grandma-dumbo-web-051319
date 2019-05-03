@@ -1,5 +1,5 @@
 def speak_to_grandma(str)
-  
+  if str == str.upcase
 end
 
 # Whatever you say to grandma, she should respond with
